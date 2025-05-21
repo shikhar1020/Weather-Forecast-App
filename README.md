@@ -32,6 +32,18 @@ A simple yet functional **React Native app** built using **Expo** that fetches a
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3502dd5d-ac2e-4353-9113-343305c6641a" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/390f038b-b8c5-45fc-977f-1511e5f0fe59" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3fbed353-928b-46ad-8d28-e76109ab508d" width="250"/></td>
+  </tr>
+</table>
+
+---
+
 ## 🧱 Project Structure
 
 ```
@@ -56,18 +68,6 @@ weather-forecast-app/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-```
-
----
-
-## 🔑 API Key
-
-- This app uses **OpenWeatherMap API**
-- API key is currently hardcoded (`services/weatherService.ts`)
-- Replace with your own or use environment variables (`expo-constants` or `dotenv`)
-
-```ts
-const API_KEY = 'd47eaf5c4cc3c22cf85184d2184091a';
 ```
 
 ---
@@ -120,16 +120,10 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots from Home, Forecast, and Favorites screen here._
-
----
-
 ## 👨‍💻 Author
 
 - Built by **Shikhar Srivastava** as part of the Startup India Co. assignment
-- Reach out on [LinkedIn](https://linkedin.com/in/shikhar-srivastava)
+- Reach out on [LinkedIn](https://www.linkedin.com/in/shikhar2srivastava2/)
 
 ---
 
